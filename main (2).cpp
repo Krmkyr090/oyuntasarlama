@@ -27,7 +27,7 @@ int main()
     karakter1.can = 4200;
     
     Karakter karakter2;
-    //strcpy(karakter1.adi,"iksir golemi");
+    //strcpy(karakter2.adi,"iksir golemi");
     karakter2.adi = "iksir golemi";
     karakter2.can = 8200;
     
