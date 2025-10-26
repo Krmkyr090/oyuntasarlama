@@ -14,7 +14,7 @@ class Karakter{
         string adi;
         int can;
         void kosma(){
-         cout<< adi <<" koşuyor"<< endl; 
+         cout<< adi <<" kosuyor"<< endl; 
     }
     
 };
